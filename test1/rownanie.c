@@ -1,7 +1,7 @@
 #include <stdio.h>
-#include <math.h>
+#include <math.h> 
 
-
+/*Program dziala poprawnie dla jezyka C++, wystarczy dokonac zmiany przy kompilacji stosujac odpowiednie oznaczenia*/
 struct TrojmianKw {
   double  a;
   double  b;

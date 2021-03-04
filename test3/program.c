@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+#include <math.h> /*dodano biblioteke */
+#include "modul.c"
 
 extern const double PI;
 extern const double E;

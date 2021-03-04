@@ -1,7 +1,7 @@
 #include <stdio.h>
+#include <math.h>
 
-
-double Dodaj();
+double Dodaj(double,double); /*byl brak argumentow w nawiasie, nalezalo uzupelnic go 2 argumentami*/
 
 
 int main( )
